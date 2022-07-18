@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0339" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
+    <gml:featureMember>
+        <gpml:SmallCircle>
+            <gpml:identity>GPlates-dc8db375-8f43-44d8-b763-fe07a0a92bed</gpml:identity>
+            <gpml:revision>GPlates-a03ecca1-b2d0-415f-8829-969803d45854</gpml:revision>
+            <gml:name></gml:name>
+            <gpml:centre>
+                <gml:Point>
+                    <gml:pos>90 0</gml:pos>
+                </gml:Point>
+            </gpml:centre>
+            <gpml:angularRadius gml:uom="urn:ogc:def:uom:OGC:1.0:degree">90</gpml:angularRadius>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>0</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+        </gpml:SmallCircle>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:SmallCircle>
+            <gpml:identity>GPlates-39c91f71-280e-46ce-9d4b-dfae18a2128b</gpml:identity>
+            <gpml:revision>GPlates-e89a1b04-a525-47b1-86bd-17f25942a3be</gpml:revision>
+            <gml:name></gml:name>
+            <gpml:centre>
+                <gml:Point>
+                    <gml:pos>90 0</gml:pos>
+                </gml:Point>
+            </gpml:centre>
+            <gpml:angularRadius gml:uom="urn:ogc:def:uom:OGC:1.0:degree">47.32</gpml:angularRadius>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>1</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+        </gpml:SmallCircle>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:SmallCircle>
+            <gpml:identity>GPlates-21c664b6-fdfd-4b64-8716-8b9292397a3a</gpml:identity>
+            <gpml:revision>GPlates-bc2b5887-5563-45a5-8511-7f521ec78fab</gpml:revision>
+            <gml:name></gml:name>
+            <gpml:centre>
+                <gml:Point>
+                    <gml:pos>90 0</gml:pos>
+                </gml:Point>
+            </gpml:centre>
+            <gpml:angularRadius gml:uom="urn:ogc:def:uom:OGC:1.0:degree">42.68</gpml:angularRadius>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>2</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+        </gpml:SmallCircle>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:SmallCircle>
+            <gpml:identity>GPlates-1c27a758-7d59-4775-96fd-5b7a6e7ff2ac</gpml:identity>
+            <gpml:revision>GPlates-96861fff-3558-4975-9142-9903eea10cc3</gpml:revision>
+            <gml:name></gml:name>
+            <gpml:centre>
+                <gml:Point>
+                    <gml:pos>90 0</gml:pos>
+                </gml:Point>
+            </gpml:centre>
+            <gpml:angularRadius gml:uom="urn:ogc:def:uom:OGC:1.0:degree">137.31999999999999</gpml:angularRadius>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>2</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+        </gpml:SmallCircle>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:SmallCircle>
+            <gpml:identity>GPlates-a70e6f55-0e2e-4db2-be9a-43c65516a925</gpml:identity>
+            <gpml:revision>GPlates-02bf7d8d-5c02-46be-8b13-b359d968f9cc</gpml:revision>
+            <gml:name></gml:name>
+            <gpml:centre>
+                <gml:Point>
+                    <gml:pos>90 0</gml:pos>
+                </gml:Point>
+            </gpml:centre>
+            <gpml:angularRadius gml:uom="urn:ogc:def:uom:OGC:1.0:degree">222.68000000000001</gpml:angularRadius>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>0</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+        </gpml:SmallCircle>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:SmallCircle>
+            <gpml:identity>GPlates-f45b416a-673d-4912-bdea-5b70a586407b</gpml:identity>
+            <gpml:revision>GPlates-970ccb87-0188-430f-84aa-87d3299873f1</gpml:revision>
+            <gml:name></gml:name>
+            <gpml:centre>
+                <gml:Point>
+                    <gml:pos>90 0</gml:pos>
+                </gml:Point>
+            </gpml:centre>
+            <gpml:angularRadius gml:uom="urn:ogc:def:uom:OGC:1.0:degree">132.68000000000001</gpml:angularRadius>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>1</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+        </gpml:SmallCircle>
+    </gml:featureMember>
+</gpml:FeatureCollection>
