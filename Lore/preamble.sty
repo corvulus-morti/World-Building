@@ -1,0 +1,56 @@
+\ProvidesPackage{preamble}
+
+\usepackage{packages}
+
+\newcommand{\startmcols}{%
+\ifnum\mcols>1
+\begin{multicols}{\mcols}
+\fi
+}
+\newcommand{\stopmcols}{%
+\ifnum\mcols>1
+\end{multicols}
+\fi
+}
+
+
+%FONTS
+% \babelfont[english]{rm}{FreeSerif}
+% \babelfont[greek]{rm}{FreeSerif}
+% \babelfont[russian]{rm}{FreeSerif}
+
+%LANGUAGES
+\setdefaultlanguage{english}
+\setotherlanguages{greek,french,spanish}
+
+% \setmainfont[Script=Greek]{GFS Artemisia}
+% \setsansfont[Script=Greek]{GFS Neohellenic}
+% \setmonofont[Script=Greek]{Noto Mono}
+
+% \setmainfont{FreeSerif}
+% \setsansfont{FreeSans}
+% \setmonofont{FreeMono}
+
+\newcommand{\cmark}{\text{\ding{51}}}
+\newcommand{\xmark}{\text{\ding{55}}}
+
+\hypersetup{
+	colorlinks,
+	linkcolor=blue,
+	urlcolor=red,
+	citecolor=blue
+}
+
+\counterwithin{equation}{section}
+\counterwithin{figure}{section}
+\counterwithin{table}{section}
+\setlength{\parskip}{0em}
+\setlength{\parindent}{2em}
+
+\usepackage{customStyles/bibstyle}
+\usepackage{customStyles/codestyle}
+\usepackage{customStyles/environments}
+\usepackage{customStyles/sectionstyle}
+\usepackage{customStyles/titlestyle}
+
+\endinput

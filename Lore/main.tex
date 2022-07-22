@@ -1,0 +1,110 @@
+\documentclass[
+a4paper,
+10pt,
+twoside,
+prd,
+aps,
+nofootinbib,
+superscriptaddress,
+floatfix,
+preprintnumbers,
+]{article}
+
+% MUST BE RUN WITH LUALATEX
+
+\usepackage{preamble}
+\usepackage{titleinfo}
+
+\geometry{ % Set document margins
+	top			= 2cm,
+	bottom	= 2cm,
+	left		= 1cm,
+	right		= 1cm
+}
+
+\newcommand{\mcols}{2} % Choose number of columns (>= 1)
+
+
+\bibSetup{refs.bib} % Give references file 
+% ===== Format headers & footers =====
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{B. Henke}
+\fancyhead[LO]{\headertitle\hspace{0.5cm}\textit{\thetitle}}
+\fancyhead[RE]{\textit{\thetitle}\hspace{0.5cm}\headertitle}
+\fancyfoot[RE,LO]{\thepage}
+
+\begin{document}
+% \tableofcontents
+\titleinf
+\maketitle
+\startmcols
+
+\section{The Start}
+
+At the beginning, there was Order.
+The Order was shattered, giving rise to the four Invariants:
+\begin{itemize}
+	\item The Twisted
+	\item The Inviting
+	\item The Fortunate
+	\item The Mystical
+\end{itemize}
+
+\section{Magic}
+
+All magic in the universe is due to the Mystical.
+The Invariants can be thought of as fields that permiate all space.
+In this interpretation, the Mystical becomes a field with a non-zero value everywhere.
+Similarly, the other Invariants can be associated with fields.
+
+\subsection{Invariant Magic Mechanics}
+
+There are five schools of magic:
+\begin{enumerate}
+	\item Tempórimancy - Time manipulation
+	\item Spátiamancy - Space manipulation
+	\item Matériamancy - Matter manipulation
+	\item Lúcimancy - Light manipulation
+	\item Fortunímancy - Probability manipulation
+\end{enumerate}
+
+The schools are numbered from most "problematic" to least "problematic".
+The more "problematic" the higher the cost, so require more magic current to be channeled.
+
+I introduce the magía vector, $m$,
+\begin{equation}
+	m = m^i e_i
+	\label{eq : magic vector}
+\end{equation}
+where $e_i$ is the magic school (corresponding to the numbered list above), $(m^i)^2$ is the amount of energy channeled into the $i^{\text{th}}$ school of magic.
+The individual is able to control each component to channel different amounts of energy into each school, but this energy must be channeled through a conduate.
+
+The conduate is subject to energy disipation, similar to how wires have a resistance, so, when carrying current, energy is dissipated into them in the form of heat.
+Most things can be used as a conduate, however, different materials are better conductors than others, and can withstand more magic current.
+The human body can be used as a conductor, but it is not a very good one, and a tollerance must be built up to channel large amounts of energy through it.
+Think microfractures in bones: microfractures heal back stronger, complete breaks do not.
+
+Channeling energy from the Mystical through one's own body can cause damage to the individual.
+Instead, the individual can channel a small amount of energy into a focus, allowing the wielder to control the magic current and channel it through the focus instead.
+All materials have different "resistances", so some foci work better than others, in that they won't be damaged as much by the channeled energy.
+
+\subsubsection{Faith Manifestation}
+
+The general population knows nothing about magic.
+However, every individual has the ability to use magic, and will passively channel magic without knowing it.
+When enough individuals believe the same thing and channel magic energy into that belief, the combined result is the manifestation of the beliefs held by the group.
+
+The energy disipation in an individual can cause a warm feeling, which is often mistaken for the presence of their deity or something along those lines.
+Additionally, individuals may unconsciously channel energy through a focus.
+These foci tend to be the icons of the individual's religion.
+
+% \nocite{*}
+% \printbib
+
+
+\stopmcols
+
+
+\end{document}
