@@ -25,11 +25,10 @@ Magic is a secret.
 The ones that know about it are devoted to the Invariants (the Arbiters(?)).
 Those devoted to the Invariants know how to use the five schools of magic:
 
-1. Tempórimancy - Time manipulation
-2. Spátiamancy - Space manipulation
-3. Matériamancy - Matter manipulation
-4. Lúcimancy - Light manipulation
-5. Fortunímancy - Probability manipulation
+1. Spatempóriamancy - Spacetime manipulation
+2. Matériamancy - Matter manipulation
+3. Lúcimancy - Light manipulation
+4. Fortunímancy - Probability manipulation
 
 The schools are numbered from most "problematic" to least "problematic".
 The more "problematic" the higher the cost (costs to be determined).
