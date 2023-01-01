@@ -3,6 +3,13 @@
 
 
 ## Date: 01/01/23
+### Individual's Story
+[Zag](Characters/gurab_kaif.md)
+
+### History:
+?
+
+### Magic: How does it work?
 * Magic or the sorceric field is the fifth force/fundamental field of nature.
 * Bosons have an interaction term with this field, but fermions don't.
   * Thus, the fields are directly affected by the sorceric field, while familiar, everyday matter isn't.
