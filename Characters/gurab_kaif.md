@@ -1,4 +1,5 @@
 # Gurab  Ka'if
+
 Aliases:
 > Zag  
 > Kay  
@@ -8,12 +9,13 @@ Aliases:
 
 Affliliations:
 > Secret Organization 1  
-> Secret Organization 2
+> Secret Organization 2 (formerly)  
+> Friends with [Theo](theo_theodor.md).
 
 Notes:  
 People don't know his real name.
 
-## Physical Description:
+## Physical Description
 > Sex: Male  
 > Ethnicity: Arabian-like  
 > Hair: Short, dark brown, curly  
@@ -24,10 +26,10 @@ People don't know his real name.
 
 ## Personality
 Zag is somewhat rezerved and quiet.
-He often appears calm, even in difficult situations, however, this is just because he doesn't tend to express emotions.
+He often appears calm, even in difficult situations. 
+However, this is just because he doesn't tend to express emotions strongly.
 
 He's anxious.
-
 He distracts himself by fiddling with things in his hands.
 This fiddling either caused or was assisted by an affinity for manipulating the sorceric field.
 
@@ -42,7 +44,9 @@ He is vengeful, as a result.
 In the moment, he can be hot headed.
 In an argument, he's prone to irrational reactions.
 
-## Timeline
+Non-expressive.
+
+## Background
+
+### Timeline
 > Birth  
-> stuff happened in there  
-> Death

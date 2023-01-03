@@ -1,13 +1,11 @@
 # Quick Notes
 ###### date format: dd/mm/yyyy
 
-
 ## Date: 01/01/23
 ### Individual's Story
-[Zag](Characters/gurab_kaif.md)
-
-### History:
-?
+[Zag](Characters/gurab_kaif.md)  
+[Theo](Characters/theo_theodor.md)  
+[WIP Characters](Characters/wip.md)  
 
 ### Magic: How does it work?
 * Magic or the sorceric field is the fifth force/fundamental field of nature.
@@ -19,3 +17,10 @@
   * Stronger fundamental forces means more energy is required to get a small change.
   * Similarly, if the fundamental force is relatively weak, more energy is required to get a meaningful effect:
     * Gravity is very weak, so creating a gravitational well, may required a lot of effort, but small changes aren't as difficult to pull off as changes in the electromagnetic field.
+
+#### Magic Details
+* Each field has different resonance frequency ranges.
+* If the fundamental frequency is $\nu_0$, and the length of the full frequency range is $\ell$, then the $n^{th}$ harmonic frequency range is given by
+$$
+	\nu_n = (\nu_0+\ell)n,
+$$
