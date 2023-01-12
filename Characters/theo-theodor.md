@@ -1,11 +1,12 @@
 # Theo Theodor
+
 Aliases:
 > Theodore  
 > Zeus  
 
 Affiliations:
 > Secret Organization 1  
-> [Zag](gurab_kaif.md) is his "bestie".
+> [Zag](gurab-kaif.md) is his "bestie".
 
 Notes:  
 Magic denier.

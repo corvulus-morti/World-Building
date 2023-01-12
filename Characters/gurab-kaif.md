@@ -10,7 +10,7 @@ Aliases:
 Affliliations:
 > Secret Organization 1  
 > Secret Organization 2 (formerly)  
-> Friends with [Theo](theo_theodor.md).
+> Friends with [Theo](theo-theodor.md).
 
 Notes:  
 People don't know his real name.

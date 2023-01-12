@@ -1,10 +1,14 @@
 # Quick Notes
 ###### date format: dd/mm/yyyy
 
-## Date: 01/01/23
+## Date: 03/01/2023
 ### Individual's Story
-[Zag](Characters/gurab_kaif.md)  
-[Theo](Characters/theo_theodor.md)  
+[The Composer](Characters/the-composer.md)
+
+## Date: 01/01/2323
+### Individual's Story
+[Zag](Characters/gurab-kaif.md)  
+[Theo](Characters/theo-theodor.md)  
 [WIP Characters](Characters/wip.md)  
 
 ### Magic: How does it work?
