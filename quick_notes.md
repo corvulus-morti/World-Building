@@ -1,12 +1,21 @@
-# Magic System
+# Quick Notes
+###### date format: dd/mm/yyyy
 
-## The Invariants
+## Date: 15/01/2023
 
-All magic in the universe is due to the Mystical.
-The sorceric field interacts with the other four fields to produce different effects.
+All magic details discussed here on [01/01/2023](quick_notes.md#magic-details) are incorrect.
 
-## Fundamentals
+## Date: 03/01/2023
+### Individual's Story
+[The Composer](Characters/the-composer.md)
 
+## Date: 01/01/2023
+### Individual's Story
+[Zag](Characters/gurab-kaif.md)  
+[Theo](Characters/theo-theodor.md)  
+[WIP Characters](Characters/wip.md)  
+
+### Magic: How does it work?
 * Magic or the sorceric field is the fifth force/fundamental field of nature.
 * Bosons have an interaction term with this field, but fermions don't.
   * Thus, the fields are directly affected by the sorceric field, while familiar, everyday matter isn't.
