@@ -1,2 +1,2 @@
-# World-Vallonia
-Vallonia is a constructed world.
+# World-Building
+This repository is used to world build.
