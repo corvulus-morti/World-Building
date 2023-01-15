@@ -3,7 +3,7 @@
 Aliases:
 > The Composer
 
-Affliliations:
+Affiliations:
 > Leader of the Orchestra
 
 Notes:  

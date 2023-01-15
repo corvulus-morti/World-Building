@@ -5,8 +5,7 @@ Aliases:
 > Zeus  
 
 Affiliations:
-> Secret Organization 1  
-> [Zag](gurab-kaif.md) is his "bestie".
+> [Kay](gurab-kaif.md) is his "bestie".
 
 Notes:  
 Magic denier.

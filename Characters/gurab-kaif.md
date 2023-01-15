@@ -1,15 +1,14 @@
 # Gurab  Ka'if
 
 Aliases:
-> Zag  
 > Kay  
+> Zag  
 > Corvo  
 > Bran  
 > Raven
 
-Affliliations:
-> Secret Organization 1  
-> Secret Organization 2 (formerly)  
+Affiliations:
+> The Orchestra (formerly)  
 > Friends with [Theo](theo-theodor.md).
 
 Notes:  

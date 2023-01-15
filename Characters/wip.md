@@ -1,23 +1,4 @@
-# Work In Progress  
-  
-## Person 1  
-Personality Type: ISFP - The Composer  
-(Introverted Sensing Feeling Perceiving)  
-Friendliness:	Jealous  
-Honesty:	Trusting  
-Assertiveness:	Quiet  
-Confidence / Ego:	Boastful  
-	  
-Agreeableness:	Solemn  
-Manners:	Chivalrous  
-Discipline:	Accurate  
-Rebelliousness:	Rebellious  
-	  
-Emotional capacity:	Thoughtless  
-Intelligence:	Rational  
-Positivity:	Rarely angry  
-Activeness / Lifestyle:	Fast-talking  
-Current emotional state: 	Cranky  
+# Work In Progress Characters  
   
 ## Person 2   
 Personality Type: ENFJ - The Teacher  
