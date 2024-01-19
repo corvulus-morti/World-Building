@@ -1,7 +1,10 @@
 ---
-"title": "Testing"
+title: "Title"
+date: \today
+author: "Author"
+bibliography: "bibliography.bib"
+link-citations: true
 ---
-<!-- <link href="latex.css" rel="stylesheet"></link> -->
 
 $$
 \vb{f} = ma
