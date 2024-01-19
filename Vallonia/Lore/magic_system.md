@@ -10,12 +10,6 @@ The sorceric field interacts with the other four fields to produce different eff
 * Magic or the sorceric field is the fifth force/fundamental field of nature.
 * Bosons have an interaction term with this field, but fermions don't.
   * Thus, the fields are directly affected by the sorceric field, while familiar, everyday matter isn't.
-* Different frequencies of waves in the sorceric field will cause different reactions:
-  * More energetic waves are required to manipulate (overcome) the natural tendencies of the four forces.
-    * Like how more energy is required to pull a ball out of a deep well than is required to pick the ball up from the ground.
-  * Stronger fundamental forces means more energy is required to get a small change.
-  * Similarly, if the fundamental force is relatively weak, more energy is required to get a meaningful effect:
-    * Gravity is very weak, so creating a gravitational well, may required a lot of effort, but small changes aren't as difficult to pull off as changes in the electromagnetic field.
 
 ## Magic Details
 
@@ -53,6 +47,6 @@ $$\begin{align*}
 The nature of this magic system allows for countering effects.
 An effect can, in fact, be completely negated.
 If the Sorceric field takes on a value of $m_1$ at some location and time, $(\tau, x)$, then this effect can be cancelled if a new value of $m_2 = -m_1$ is applied at the same location and time.
-This is *extremely* difficult to do, since one must be able to know the value of the Sorceric field in the location in question.
+This is *extremely* difficult to do, since one must be able to know the value of the Sorceric field at the location in question.
 
-There are other options of countering the effects that one can employ more easily, however, but those still required a great deal of tact and understanding to employ.
+There are other options of countering the effects that one can employ more easily, however, but those still require a great deal of tact and understanding to employ.

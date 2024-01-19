@@ -1,4 +1,6 @@
-# Quick Notes
+<!-- ---
+title: Quick Notes
+--- -->
 ###### date format: dd/mm/yyyy
 
 ## Date: 15/01/2023

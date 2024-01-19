@@ -1,7 +1,7 @@
 # **Background**
 
 ## **The Invariants**
-The Tnvariants are beings that personify the five fundamental fields of the universe.
+The Invariants are beings that personify the five fundamental fields of the universe.
 In order of strength, they are:
 > Nuclear Strong Field  
 > Electromagnetic Field  

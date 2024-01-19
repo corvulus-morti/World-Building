@@ -1,6 +1,6 @@
 # Djinn and Daeva
 
-There are two levels of god-like beings: Daeva and Djinn.
+There are two levels of god-like beings: Djinn and Daeva.
 
 ## Djinn
 
