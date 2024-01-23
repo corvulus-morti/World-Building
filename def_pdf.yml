@@ -1,0 +1,5 @@
+defaults:
+  - ./defs.yml
+include-in-header: latex_preamble.sty
+pdf-engine: xelatex
+cite-method: biblatex

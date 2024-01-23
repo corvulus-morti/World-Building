@@ -14,4 +14,4 @@ They understand that they have abilities given to them by the people, but know n
 
 Daeva are born human and become god-like through their understanding of magic.
 Daeva are more powerful than Djinn, due to their study of magic and how the universe works.
-One of the reasons Daeva are incredibly powerful is that they have mastered the ability to completely negate an effect from the Sorceric field, described in the magic details section of [Magic System](magic_system.md#magic-details).
+One of the reasons Daeva are incredibly powerful is that they have mastered the ability to completely negate an effect from the Sorceric field, described in the magic details section of [Magic System](./magic_system.md).

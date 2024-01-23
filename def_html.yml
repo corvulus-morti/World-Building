@@ -1,0 +1,7 @@
+defaults:
+  - defs.yml
+self-contained: false
+css: ""
+include-in-header: load-mathjax.html
+html-math-method:
+  method: mathjax

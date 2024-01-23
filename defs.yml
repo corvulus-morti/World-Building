@@ -1,0 +1,6 @@
+reader: markdown+tex_math_single_backslash+raw_tex
+metadata-file: metadata.yml
+file-scope: true
+bibliography: refs.bib
+number-sections: true
+toc: true
